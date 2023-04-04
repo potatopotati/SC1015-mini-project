@@ -14,3 +14,15 @@ Mini Project for SC1015 (INTRO TO DATA SCI & ART INTELL)
 2. Random Forest
 
 ## Conclusion:
+1.
+
+## What did we learn?
+1. Handling catergorical and binary variables 
+2. One Hot Encoding
+3. Collab using github
+4. google Colab
+5. Feature selection
+6. 
+
+## References:
+1. 
