@@ -13,7 +13,7 @@ Mini Project for SC1015 (INTRO TO DATA SCI & ART INTELL)
 1.
 
 ## Models Used:
-1. Linear Regression
+1. Decision Tree
 2. Random Forest
 
 ## Conclusion:
