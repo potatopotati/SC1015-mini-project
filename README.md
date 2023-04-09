@@ -2,7 +2,7 @@
 
 ## About the project:
 
-A Mini Project for SC1015 (INTRO TO DATA SCI & ART INTELL), focuses on students' grades from [Student Alcohol Consumption](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption) by UCI MACHINE LEARNING. 
+A Mini Project for SC1015 (INTRO TO DATA SCI & ART INTELL), it focuses on students' grades from [Student Alcohol Consumption](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption) by UCI MACHINE LEARNING. 
 
 ## Problem statement:
 
