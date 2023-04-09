@@ -2,7 +2,7 @@
 
 ## About the project:
 
-A Mini Project for SC1015 (INTRO TO DATA SCI & ART INTELL), it focuses on students' grades from [Student Alcohol Consumption](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption) by UCI MACHINE LEARNING. 
+A Mini Project for SC1015 (INTRO TO DATA SCI & ART INTELL), it focuses on students' grades from [Student Alcohol Consumption](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption) by UCI MACHINE LEARNING.
 
 ## Problem statement:
 
@@ -23,9 +23,11 @@ A Mini Project for SC1015 (INTRO TO DATA SCI & ART INTELL), it focuses on studen
 1. Handling catergorical and binary variables 
 2. One Hot Encoding
 3. Collab using github
-4. google Colab
+4. Google Colab
 5. Feature selection
-6. 
+6. Random Forest
+7. 
 
 ## References:
-1. 
+1. <https://www.kaggle.com/datasets/uciml/student-alcohol-consumption>
+2. 
