@@ -4,9 +4,9 @@
 
 A Mini Project for SC1015 (INTRO TO DATA SCI & ART INTELL) that focuses on students' grades from [Student Alcohol Consumption](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption) by UCI MACHINE LEARNING. Directory for easy access of code:
 1. [Data Cleaning](https://github.com/potatopotati/SC1015-mini-project/blob/main/Data%20Cleaning.ipynb)
-2. [Feature Selection](https://github.com/potatopotati/SC1015-mini-project/blob/main/mini%20proj.ipynb)
-3. [Exploratory data analysis (EDA)](https://github.com/potatopotati/SC1015-mini-project/blob/main/mini%20proj.ipynb)
-4. [Machine Learning](https://github.com/potatopotati/SC1015-mini-project/blob/main/mini%20proj.ipynb) 
+2. [Feature Selection](https://github.com/potatopotati/SC1015-mini-project/blob/main/Feature%20Selection.ipynb)
+3. [Exploratory data analysis (EDA)](https://github.com/potatopotati/SC1015-mini-project/blob/main/EDA.ipynb)
+4. [Machine Learning](https://github.com/potatopotati/SC1015-mini-project/blob/main/Machine%20Learning.ipynb) 
 
 ## Problem statement:
 
