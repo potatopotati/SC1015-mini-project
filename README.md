@@ -9,7 +9,7 @@ A Mini Project for SC1015 (INTRO TO DATA SCI & ART INTELL) that focuses on stude
 4. [Exploratory data analysis (EDA)](https://github.com/potatopotati/SC1015-mini-project/blob/main/EDA.ipynb)
 5. [Machine Learning](https://github.com/potatopotati/SC1015-mini-project/blob/main/Machine%20Learning.ipynb) 
 6. [MiniProj](https://github.com/potatopotati/SC1015-mini-project/blob/main/mini_proj.ipynb)
-7. [MiniProj_with_interactive graph]()
+7. [MiniProj_with_interactive graph](https://github.com/potatopotati/SC1015-mini-project/blob/main/mini_proj_with%20interactive%20graph.ipynb)
 
 ## Problem statement:
 
