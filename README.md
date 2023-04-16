@@ -30,6 +30,7 @@ Are we able to predict a students' grades based on its attributes?
 5. Feature selection
 6. Random Forest
 7. Extra Tree Classifier 
+8. Plotly
 
 ## References:
 1. <https://www.kaggle.com/datasets/uciml/student-alcohol-consumption>
