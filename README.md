@@ -13,7 +13,8 @@ A Mini Project for SC1015 (INTRO TO DATA SCI & ART INTELL) that focuses on stude
 
 ## Problem statement:
 
-Are we able to predict a students' grades based on its attributes?
+1. What factors affect Student Grades the most?
+2. Are we able to predict a students' grades based on those factors?
 
 ## Contributions:
 1.
