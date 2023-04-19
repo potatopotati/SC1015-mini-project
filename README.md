@@ -39,4 +39,4 @@ A Mini Project for SC1015 (INTRO TO DATA SCI & ART INTELL) that focuses on stude
 ## References:
 1. <https://www.kaggle.com/datasets/uciml/student-alcohol-consumption>
 2. <https://www.educative.io/blog/one-hot-encoding#what>
-3.
+3. <https://www.geeksforgeeks.org/ml-extra-tree-classifier-for-feature-selection/>
