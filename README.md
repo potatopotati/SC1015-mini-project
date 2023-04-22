@@ -40,3 +40,6 @@ A Mini Project for SC1015 (INTRO TO DATA SCI & ART INTELL) that focuses on stude
 1. <https://www.kaggle.com/datasets/uciml/student-alcohol-consumption>
 2. <https://www.educative.io/blog/one-hot-encoding#what>
 3. <https://www.geeksforgeeks.org/ml-extra-tree-classifier-for-feature-selection/>
+4. https://medium.com/analytics-vidhya/evaluating-a-random-forest-model-9d165595ad56
+5. https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
+
