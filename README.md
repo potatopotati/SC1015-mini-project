@@ -17,9 +17,9 @@ A Mini Project for SC1015 (INTRO TO DATA SCI & ART INTELL) that focuses on stude
 2. Are we able to predict Student Grades based on those factors?
 
 ## Contributions:
-1. Tejaswi002: 
-2. potatopotati: 
-3. nigelip: 
+1. @Tejaswi002: 
+2. @potatopotati: 
+3. @nigelip: 
 
 ## Models Used:
 1. Decision Tree
